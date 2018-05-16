@@ -1,0 +1,16 @@
+body {
+	background: red;
+}
+.main-tilt-container {
+	width: 100%;
+	height: 100vh;
+	transform-style: preserve-3d;
+
+}
+.main-tilt-container h1 {
+	margin: 0 auto;
+	width: 300px;
+	padding-top: 20%;
+	font-size: 85px;
+	color: #fff;
+}
